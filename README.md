@@ -1,2 +1,2 @@
 # GFG---Problem-Solving-
-Problem Solving in Java 
+My GeeksforGeeks coding journey, with solutions automatically synced and maintained on GitHub.
