@@ -1,0 +1,9 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/check-sorted-arraylist/1">Check Sorted ArrayList</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">Given an ArrayList <strong>arr[]</strong>, return true if it is sorted in any order (ascending or descending). Otherwise, return false.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input:</strong> arr[] = [1, 3, 56, 99]
+<strong>Output: </strong>true
+<strong>Explanation: </strong>The given arraylist is sorted in ascending order.</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>arr[] = [13, 12, 11, 11]
+<strong>Output: </strong>true
+<strong>Explanation: </strong>The given arraylist is sorted in descending order.</span></pre>
+<p><strong><span style="font-size: 18px;">Constraints:<br></span></strong><span style="font-size: 18px;">1&nbsp;<span style="color: #273239; font-family: Nunito; font-size: 17px; background-color: #ffffff;">≤</span> arr.size() <span style="color: #273239; font-family: Nunito; font-size: 17px; background-color: #ffffff;">≤ </span>10<sup>5<br></sup>-10<sup>6</sup> <span style="color: #273239; font-family: Nunito; font-size: 17px; background-color: #ffffff;">≤</span> arr[i] <span style="color: #273239; font-family: Nunito; font-size: 17px; background-color: #ffffff;">≤ </span>10<sup>6&nbsp;</sup></span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Java-Collections</code>&nbsp;
